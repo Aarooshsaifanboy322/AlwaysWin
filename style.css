@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+@keyframes display {
+    0% {
+        transform: translateY(-67px);
+    }
+}
+.header {
+    animation: display 0.8s ease-out;
+}
+#installation_container {
+    display: flex;
+    justify-content: space-around;
+}
