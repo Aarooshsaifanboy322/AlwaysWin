@@ -18,3 +18,4 @@ Please type **game-name:(game)_hack**. This is used to locate the game.
 
 # Other
 More syntaxes coming soon!
+A windows form version coming out later!
